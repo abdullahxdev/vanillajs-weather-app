@@ -175,8 +175,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@abdullahxdev](https://github.com/abdullahxdev)
+- LinkedIn: [Muhammad Abdullah](https://linkedin.com/in/mabdullahxdev)
 - Email: abdullahisdev@gmail.com
 
 ## 🙏 Acknowledgments
@@ -186,16 +186,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Font: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 - Inspiration from modern glassmorphism design trends
 
-## 📞 Support
-
-If you have any questions or run into issues:
-
-1. Check the [Issues](https://github.com/your-username/weather-dashboard/issues) page
-2. Open a new issue with detailed description
-3. Contact me via email or LinkedIn
-
----
 
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
-
-Made with ❤️ and ☕
